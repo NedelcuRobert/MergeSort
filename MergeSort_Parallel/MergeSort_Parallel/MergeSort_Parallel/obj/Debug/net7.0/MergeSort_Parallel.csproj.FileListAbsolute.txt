@@ -1,0 +1,15 @@
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\bin\Debug\net7.0\MergeSort_Parallel.exe
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\bin\Debug\net7.0\MergeSort_Parallel.deps.json
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\bin\Debug\net7.0\MergeSort_Parallel.runtimeconfig.json
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\bin\Debug\net7.0\MergeSort_Parallel.dll
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\bin\Debug\net7.0\MergeSort_Parallel.pdb
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\obj\Debug\net7.0\MergeSort_Parallel.csproj.AssemblyReference.cache
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\obj\Debug\net7.0\MergeSort_Parallel.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\obj\Debug\net7.0\MergeSort_Parallel.AssemblyInfoInputs.cache
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\obj\Debug\net7.0\MergeSort_Parallel.AssemblyInfo.cs
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\obj\Debug\net7.0\MergeSort_Parallel.csproj.CoreCompileInputs.cache
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\obj\Debug\net7.0\MergeSort_Parallel.dll
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\obj\Debug\net7.0\refint\MergeSort_Parallel.dll
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\obj\Debug\net7.0\MergeSort_Parallel.pdb
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\obj\Debug\net7.0\MergeSort_Parallel.genruntimeconfig.cache
+D:\FACULTATE\PROIECTE\APD\MergeSort_Parallel\MergeSort_Parallel\MergeSort_Parallel\obj\Debug\net7.0\ref\MergeSort_Parallel.dll
